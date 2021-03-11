@@ -4,7 +4,7 @@ I'm Jade, a current sophomore studying Computer Science and Mandarin Chinese at 
 
 Welcome to my Github page that I created and customized using Jekyll's static site generator. Here I would like to share my personal projects, hobbies, and other interests as a way to practice and experiment with coding. 
 
-### Markdown
+### Projects !
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,9 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Hobbies/Interests !
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jadehenderson/jadehenderson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
