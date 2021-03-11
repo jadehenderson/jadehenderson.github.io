@@ -1,8 +1,8 @@
-## Hello!
+## Hello !
 
-You can use the [editor on GitHub](https://github.com/jadehenderson/jadehenderson.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Jade, a current sophomore studying Computer Science and Mandarin Chinese at the University of North Carolina at Chapel Hill!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my Github page that I created and customized using Jekyll's static site generator. Here I would like to share my personal projects, hobbies, and other interests as a way to practice and experiment with coding. 
 
 ### Markdown
 
