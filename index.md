@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 layout: post
 title: Your Title Here
 spotifyplaylist: spotify/playlist/1h0fZCR0f57Zgft5VEpiRW?si=W7v2K-vGRpm91bFqPitdbA
-{% include spotifyplaylist.html id=page.spotifyplaylist %}
+{% include spotifyplaylist.html id="1h0fZCR0f57Zgft5VEpiRW?si=W7v2K-vGRpm91bFqPitdbA" %}
 
 ### Support or Contact
 
