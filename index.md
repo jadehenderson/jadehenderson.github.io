@@ -30,7 +30,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Hobbies/Interests !
 
-{% include spotifyplaylist.html id=page.spotifyplaylist %}
 
 
 ### Support or Contact
