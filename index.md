@@ -29,9 +29,6 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Hobbies/Interests !
-layout: post
-title: Your Title Here
-spotifyplaylist: your playlist ID
 {% include spotifyplaylist.html id=page.spotifyplaylist %}
 
 ### Support or Contact
