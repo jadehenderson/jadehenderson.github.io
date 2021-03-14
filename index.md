@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Hobbies/Interests !
-{% include spotifyplaylist.html id=page.spotifyplaylist %}
+{% include spotifyalbum.html id=page.spotifyalbum %}
 
 ### Support or Contact
 
