@@ -6,4 +6,4 @@ This page is also being used to experiment with git, html/css, markdown, etc. as
 
 ## Credit 
 
-Many thanks to Github user andriannp (https://github.com/andriannp/spotify-embed-on-Jekyll) for their repo on embedding Spotify albums with Jekyll sites as well as https://thisisa.blog/how-to-embed-media-github-pages page for how to embed media. 
+Many thanks to Github user andriannp (https://github.com/andriannp/spotify-embed-on-Jekyll) for their repo on embedding Spotify albums with Jekyll sites as well as https://thisisa.blog/how-to-embed-media-github-pages page on how to embed media. 
