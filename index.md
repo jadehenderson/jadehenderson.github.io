@@ -1,6 +1,3 @@
-layout: post
-title: Your Title Here
-spotifyplaylist: playlist/1h0fZCR0f57Zgft5VEpiRW?si=7o3d-U3FR5aSDj-X_u8M3g
 ## Hello !
 
 I'm Jade, a current sophomore studying Computer Science and Mandarin Chinese at the University of North Carolina at Chapel Hill!
