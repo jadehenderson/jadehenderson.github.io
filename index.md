@@ -32,10 +32,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 _What I've been listening to:_ 
 {% include spotifyalbum.html id="6AORtDjduMM3bupSWzbTSG?si=iQTumgiXRAiCYU7Oftk5SA" %}
 
+
 ### Hobbies !
 
 _Check out my dessert Insta!_ 
-[Link](https://jadehenderson.github.io/dessert/)
+
+[here!](https://jadehenderson.github.io/dessert/)
 
 ### Support or Contact
 
