@@ -8,14 +8,12 @@ Welcome to my Github page that I created and customized using Jekyll's static si
 
 projects to be uploaded 
 
-### Music !
-_What I've been listening to:_ 
-{% include spotifyalbum.html id="6AORtDjduMM3bupSWzbTSG?si=iQTumgiXRAiCYU7Oftk5SA" %}
-
-
 ### Hobbies !
 
 _Check out my dessert Insta!_ 
 
 [here!](https://jadehenderson.github.io/dessert/)
 
+### Music !
+_What I've been listening to:_ 
+{% include spotifyalbum.html id="6AORtDjduMM3bupSWzbTSG?si=iQTumgiXRAiCYU7Oftk5SA" %}
