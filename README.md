@@ -35,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+Many thanks to Github user andriannp (https://github.com/andriannp/spotify-embed-on-Jekyll) for their repo on embedding Spotify albums with Jekyll sites as well as https://thisisa.blog/how-to-embed-media-github-pages page for how to embed media. 
