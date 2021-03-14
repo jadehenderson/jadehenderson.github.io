@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Jade Henderson
 logo: /profile/AD41C64B-58FF-4430-822A-C55955C14EEE.JPG
-description: {% include spotifyplaylist.html id=page.spotifyplaylist %}
+description: 
