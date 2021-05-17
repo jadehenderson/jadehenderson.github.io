@@ -7,6 +7,7 @@ Welcome to my Github page that I created and customized using Jekyll's static si
 ### Projects !
 
 Nonograms: A simple logic puzzle where given a board along with row and column clues, a player will shade/eliminate cells to complete the puzzle. I completed my first GUI/Java desktop app using JavaFx.   
+[here!](https://github.com/jadehenderson/nonograms)
 
 ### Hobbies !
 
